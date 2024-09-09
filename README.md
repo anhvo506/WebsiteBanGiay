@@ -13,3 +13,10 @@ Search, filter, purchase, order, check orders, product management, authorization
 - Bootstrap
 - PHP
 - MySQL
+## Screenshots
+![](docs/anh1.png)<br>
+![](docs/anh2.png)<br>
+![](docs/anh3.png)<br>
+![](docs/anh4.png)<br>
+![](docs/anh5.png)<br>
+![](docs/anh6.png)<br>
